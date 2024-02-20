@@ -1,0 +1,8 @@
+{
+  "name": "hujiawei",
+  "logo": "https://pbs.twimg.com/profile_images/1742560959863169024/4XwqtGnW_400x400.jpg",
+  "rpc_url": "http://你的ip:9944",
+  "explorer_url": "http://45.32.253.48:4000",
+  "metrics_endpoint": "http://45.32.253.48:9615/metrics",
+  "id": "4e8a89fd-a3d9-435e-974e-709a2a2be660"
+}
